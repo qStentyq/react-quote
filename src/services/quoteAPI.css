@@ -1,0 +1,18 @@
+.quotes {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.generation {
+    display: flex;
+    margin-top: 20px;
+    padding: 8px;
+}
+
+.category {
+    margin-right: 12px;
+}
